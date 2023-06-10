@@ -3,13 +3,13 @@ import './footer.css'
 import {AiOutlineFacebook, AiOutlineInstagram} from 'react-icons/ai'
 import {TfiTwitter} from 'react-icons/tfi'
 import {FiGithub, FiLinkedin} from 'react-icons/fi'
-import Signature from '../../assets/Signature-White.png'
+
 
 
 function Footer() {
   return (
     <footer id='footer'>
-      <a href="#" className="footer__logo"><img src={Signature} alt='image of Jemmy'/></a>
+     
 
       <ul className="permaLinks">
        <li><a href="#">Home</a></li>

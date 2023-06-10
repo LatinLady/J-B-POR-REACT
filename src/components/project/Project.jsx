@@ -1,7 +1,7 @@
 import React from "react";
 import "./project.css";
 import cover1 from "../../assets/team-generator.png";
-import cover2 from "../../assets/weather-deasboard.png";
+import cover2 from "../../assets/weather-deashboard.png";
 import cover3 from "../../assets/work-schedule.png";
 
 // IMAGES FOR PRIVATE USE ONLY (NO CREATIVE COMMONS)
@@ -12,21 +12,21 @@ const data = [
     image: cover1,
     title: "Team Generator",
     github: "https://github.com/LatinLady/Team-Profile-Gen.git",
-    demo: none,
+    
   },
   {
     id: 2,
     image: cover2,
     title: "Weather Deasboard",
     github: "https://github.com/LatinLady/Weather-Dashboard.git",
-    demo: none,
+    
   },
   {
     id: 3,
     image: cover3,
     title: "Work schedule",
     github: "https://github.com/LatinLady/work-day-scheduler.git",
-    demo: none,
+    
   },
   
 ];
