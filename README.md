@@ -2,7 +2,7 @@
 
 ## Description
 
-Examining through GitHub fair isn't sufficient! Check out my responsive portfolio built with Respond. This site highlights mobile-first plan and simple route between components.
+Examining through GitHub fair isn't sufficient! Check out my responsive portfolio built with Respond. This site highlights mobile-first plan and simple route between components. This is a simple portfolio in the future I will be updating it.
 
 ## Table of Contents
 1. [Description](#description)
@@ -54,15 +54,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Installation
 This application is deployed on Github .
 
-<br/>
-The following animation demonstrates the application's functionality:
-
-https://user-images.githubusercontent.com/107900180/206947139-ed155f5c-688d-4cf2-bf78-e1e78d60669f.mp4
-
-<br/>
-The following animation demonstrates the application's mobile interface:
-
-https://user-images.githubusercontent.com/107900180/206946944-20f3e823-75e3-4487-bed5-c705e0686de0.mp4
 
 ## License
 MIT
@@ -77,9 +68,11 @@ MIT
 * Web-vitals
 * JavaScript
 
-## Tests
-No tests were run to complete this application.
+## Future development 
+
+Update Portfolio, include a resume, create account on Twitter and LinkedIn.
 
 
 ## Deployment Link
 
+Github: https://github.com/LatinLady/J-B-POR-REACT.git

@@ -1,7 +1,6 @@
 import React from "react";
 import "./header.css";
-import CTA from "./CTA";
-import Me from "../../assets/IMG_8775.png";
+import Me from "../../assets/me.png";
 import HeaderSocials from "./HeaderSocials";
 
 function Header() {
@@ -10,12 +9,11 @@ function Header() {
       <header id="header">
         <div className="container header__container">
           <h5>Hello I'm</h5>
-          <h1>Insha Sayani</h1>
+          <h1>Jemmy Blyden</h1>
           <h5 className="text-light">Full-Stack Developer</h5>
-          <CTA />
           <div>
             <div className="me">
-              <img src={Me} alt="image of Insha Sayani" />
+              <img src={Me} alt="image of Jemmy" />
             </div>
           </div>
           <HeaderSocials />
