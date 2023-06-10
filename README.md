@@ -37,7 +37,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 # Link
 Github:
-https://github.com/LatinLady/React-Portfolio.git
+https://github.com/LatinLady/J-B-POR-REACT.git
 
 Heroku:
 
