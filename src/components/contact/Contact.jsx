@@ -22,7 +22,7 @@ function Contact() {
             <FiLinkedin className="contact__option-icon"/>
             <h4>LinkedIn</h4>
             <a
-              href="https://www.linkedin.com"
+              href="..."
               target="_blank"
               className=""
             >

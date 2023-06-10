@@ -1,6 +1,6 @@
 import React from 'react';
 import './footer.css'
-import {AiOutlineFacebook, AiOutlineInstagram} from 'react-icons/ai'
+import {AiOutlineInstagram} from 'react-icons/ai'
 import {TfiTwitter} from 'react-icons/tfi'
 import {FiGithub, FiLinkedin} from 'react-icons/fi'
 

@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import meAbout from "../../assets/me.png";
-import { FaAward, FaUsers, FaTasks } from "react-icons/fa";
+import { FaUsers, FaTasks } from "react-icons/fa";
 
 function About() {
   return (
