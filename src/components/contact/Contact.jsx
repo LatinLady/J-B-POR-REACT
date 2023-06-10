@@ -14,7 +14,7 @@ function Contact() {
           <article className="contact__option">
             <HiOutlineMail className="contact__option-icon"/>
             <h4>Email</h4>
-            <a href="mailto:inshasayani@gmail.com" target="_blank" className="">
+            <a href="mailto:marielblyden@hotmail.com" target="_blank" className="">
               Send a message
             </a>
           </article>
@@ -22,7 +22,7 @@ function Contact() {
             <FiLinkedin className="contact__option-icon"/>
             <h4>LinkedIn</h4>
             <a
-              href="https://www.linkedin.com/in/inshasayani"
+              href="https://www.linkedin.com"
               target="_blank"
               className=""
             >
@@ -33,7 +33,7 @@ function Contact() {
             <FiGithub className="contact__option-icon"/>
             <h4>GitHub</h4>
             <a
-              href="https://www.github.com/isayani"
+              href="https://www.github.com/LatinLady"
               target="_blank"
               className=""
             >
