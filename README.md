@@ -2,19 +2,15 @@
 
 ## Description
 
-Perusing through GitHub just isn't enough! Check out my responsive portfolio built with React. This website features mobile-first design and easy navigation between components. Learn about me, my experiences, services and highlighted projects. Website also has a contact form to reach me directly, in case you would like to collaborate. Read the documentation further to find the live deployed application and other information about this application.
+Examining through GitHub fair isn't sufficient! Check out my responsive portfolio built with Respond. This site highlights mobile-first plan and simple route between components.
 
 ## Table of Contents
 1. [Description](#description)
 2. [Table of Contents](#table-of-contents)
 3. [Usage](#usage)
-4. [Installation](#installation)
-5. [License](#license)
-6. [Technologies Employed](#technologies-employed)
-7. [Future Development](#future-development)
-8. [Contributing](#contributing)
-9. [Tests](#tests)
-10. [Questions](#questions)
+4. [License](#license)
+5. [Technologies Employed](#technologies-employed)
+
 
 ## Usage
 ### User Story
@@ -56,7 +52,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Installation
-This application is deployed on [GitHub Pages](https://isayani.github.io/isayani-react-portfolio/).
+This application is deployed on Github .
 
 <br/>
 The following animation demonstrates the application's functionality:
@@ -69,10 +65,8 @@ The following animation demonstrates the application's mobile interface:
 https://user-images.githubusercontent.com/107900180/206946944-20f3e823-75e3-4487-bed5-c705e0686de0.mp4
 
 ## License
+MIT
 
-This project is licensed under the MIT license.
-
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.<p/>For more information visit [MIT Licensing](https://choosealicense.com/licenses/mit/).
 
 ## Technologies Employed
 * React
@@ -83,20 +77,9 @@ A short and simple permissive license with conditions only requiring preservatio
 * Web-vitals
 * JavaScript
 
-## Future Development
-We would like to continue to add the following functionality to our application:
-- Update all projects to black and white GIFs
-- Add media queries for the new Galaxy Fold
-
-## Contributing
-We'd love for you to contribute! In order to do so, fork this repository. Your pull request will need approval in order to merge to ```main```. <br/><br/> Take a look at our [Future Development](#future-development) section to see what we are looking to expand on (implemented features are denoted with a &check;). Feel free to implement your own ideas and merge request!
-
 ## Tests
 No tests were run to complete this application.
 
-## Questions
-Find Insha Sayani on [GitHub](https://github.com/isayani)<br/>
-Or visit the portfolio's repository: [ISayani React Portfolio](https://github.com/isayani/isayani-react-portfolio)
 
-- - -
-© 2022 ISayani Creative Services, Confidential and Proprietary. All Rights Reserved.
+## Deployment Link
+
