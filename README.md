@@ -1,5 +1,10 @@
 # JB React Prtfolio
 
+## Portfolio Video
+https://drive.google.com/file/d/1a-DSNThe4wuX0PrpFKwvDwTC7icep00C/view
+
+I put this video because I had some problems for get a screenshot pic on my compuiter.
+
 ## Description
 
 Examining through GitHub fair isn't sufficient! Check out my responsive portfolio built with Respond. This site highlights mobile-first plan and simple route between components. This is a simple portfolio in the future I will be updating it.
