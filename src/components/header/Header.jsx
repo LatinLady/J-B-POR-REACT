@@ -13,7 +13,7 @@ function Header() {
           <h5 className="text-light">Full-Stack Developer</h5>
           <div>
             <div className="me">
-              <img src={Me} alt="image of Jemmy" />
+              <img src={Me} alt="me" />
             </div>
           </div>
           <HeaderSocials />

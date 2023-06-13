@@ -14,7 +14,7 @@ function Contact() {
           <article className="contact__option">
             <HiOutlineMail className="contact__option-icon"/>
             <h4>Email</h4>
-            <a href="mailto:marielblyden@hotmail.com" target="_blank" className="">
+            <a href="mailto:marielblyden@hotmail.com" target="wwww.hotmail.com" className="">
               Send a message
             </a>
           </article>
@@ -34,7 +34,7 @@ function Contact() {
             <h4>GitHub</h4>
             <a
               href="https://www.github.com/LatinLady"
-              target="_blank"
+              target="www.github.com"
               className=""
             >
               Browse my projects
