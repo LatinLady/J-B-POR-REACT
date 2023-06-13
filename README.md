@@ -80,4 +80,6 @@ Update Portfolio, include a resume, create account on Twitter and LinkedIn.
 
 ## Deployment Link
 
+ https://latinlady.github.io/J-B-POR-REACT/
+
 Github: https://github.com/LatinLady/J-B-POR-REACT.git
